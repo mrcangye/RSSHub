@@ -3,6 +3,12 @@
 </p>
 <h1 align="center">RSSHub</h1>
 
+警告：这个仓库与官方RSShub会有未PR的出入，谨慎fork。 
+
+dock拉取方式： 
+
+`docker pull mrcangye/rsshub`
+
 > 🍰 Everything is RSSible
 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?style=flat-square)](https://t.me/rsshub)
